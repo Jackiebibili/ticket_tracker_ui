@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# nginx config file
+tm.thejackli.me
+
+# prod script
+prod.sh
+docker-compose.yml
